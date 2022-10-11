@@ -1,6 +1,6 @@
 ### My name is Denys and I am an experienced Web, Mobile, and Blockchain developer. I have 10+ years of experience with Frontend and Backend development and 5 years of experience with Blockchain development. 👋
 
-- ### 💬 My Skills
+### 💬 My Skills
 
 ### Frontend
 - Languages: HTML, CSS, Javascript, Typescript
